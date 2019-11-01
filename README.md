@@ -1,0 +1,2 @@
+# TicTacToe-with-basic-AI
+I wrote this program when I was 12 years with C++. This program is used to play tic tac toe with some basic AI. I know that I used C++ wrongly and the AI is very primitive in this program but still it helped me to start thinking better. But now, My C++ knowledge has improved vastly over these years mainly because of reading the awesome C++ books that the internet provides us.
